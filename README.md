@@ -1,9 +1,10 @@
 # Personal-Power-Supply
 I grow tired of not having the right power I need for running things so I am taking matters into my own hands
 
-Currently a work in progress
+Currently completed
 I am using an old 65W computer charger wired into an adjustable LM2596.
 I desoldered the potentiometer that it came with to set is up with a new bulkier one that I can change with my hand and not a screwdriver. 
+it will max out at 20V and 3.25A but that should be plenty for my needs. I'm just glad I can consistently hit 12V!
 
 Still to be completed
   Encasement: Half way through turning an old beer case into a SAFE enviornment for the circuit to stay in
